@@ -1,4 +1,5 @@
-# M4R
+# Estimating Election Incumbency Bias in General Elections in England
+
 Fourth Year Research Project on Election Incumbency Bias in General Elections in England
 
 This is a report which seeks to compute the incumbency bias incurred on a politician on account of their party and individual impact.
