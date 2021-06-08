@@ -1,0 +1,3 @@
+UsedUrls has the urls of the constituencies we will use to measure incumbency bias.
+
+These are all of the constituencies that have existed from 1997: 454 in total
