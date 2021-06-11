@@ -64,6 +64,13 @@ betavalues <- c(2,-0.2,7/100000)
 omittedbetamean <- rowMeans(omittedmodelbeta)
 truebetamean <- rowMeans(truemodelbeta)
 
+#standard errors:
+
+sd(omittedmodelbeta[1,])/100 #s.e. = 0.000824
+sd(omittedmodelbeta[2,])/100 #s.e. = 0.000317
+sd(omittedmodelbeta[3,])/100 #s.e. = 1.54e-05
+sd(omittedmodelbeta[4,])/100 #s.e. = 7.71e-09
+
 print(omittedbetamean)
 print(truebetamean)
 
